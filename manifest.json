@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-freelinks",
+	"name": "Freelinks",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Automatic magic link generation like VoodooPad.",
+	"author": "ranmaru22",
+	"authorUrl": "https://github.com/ranmaru22",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
