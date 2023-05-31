@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-freelinks",
 	"name": "Freelinks",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
 	"description": "Automatic magic link generation like VoodooPad.",
 	"author": "ranmaru22",

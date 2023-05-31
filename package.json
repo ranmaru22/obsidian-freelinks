@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-freelinks",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"description": "Automatic magic link generation like VoodooPad.",
 	"main": "main.js",
 	"scripts": {
